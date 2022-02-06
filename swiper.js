@@ -9,9 +9,7 @@ const swiper = new Swiper('.swiper', {
     el: '.swiper-pagination',
     clickable: true,
     // color: purple,
-    
   },
-  
 
   // Navigation arrows
 //   navigation: {
